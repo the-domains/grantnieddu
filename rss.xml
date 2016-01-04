@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GrantNieddu]]></title>
+        <description><![CDATA[GrantNieddu]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Jan 2016 17:28:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Start Right With This One Thing - Self-Analysis Questionnaire]]></title>
+            <description><![CDATA[<article><h1>Start Right With This One Thing - Self-Analysis Questionnaire</h1><p>So, it’s the new year. Honestly my second favorite holiday. Thanksgiving is full of gratitude AND good food. New Years comes in second only because the food is par for the course for the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b576a73e30c099365d3353b08e28c34ed8aa7f40.png"></article>]]></description>
+            <link>undefinedstart-right-with-this-one-thing-self-analysis-questionnair/index.html</link>
+            <guid isPermaLink="false">17e155d7-6e13-4389-91bc-f00f2dd216c3</guid>
+            <pubDate>Mon, 04 Jan 2016 17:28:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
