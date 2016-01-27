@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Start Your Year off Right With This One Thing. Often overlooked but critical to a healthy year. Self-Analysis Questionnaire '
-datePublished: '2016-01-27T20:46:38.354Z'
+datePublished: '2016-01-27T20:46:38.353Z'
 dateModified: '2016-01-27T20:46:31.177Z'
 title: Start Right With This One Thing - Self-Analysis Questionnaire
 author: []
