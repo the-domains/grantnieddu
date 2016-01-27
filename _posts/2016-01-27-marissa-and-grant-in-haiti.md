@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Marissa and Grant Nieddu in Haiti. International travel helps expand the knowledge by with to train entrepreneurs.
-datePublished: '2016-01-27T20:50:22.787Z'
+datePublished: '2016-01-27T20:50:22.885Z'
 dateModified: '2016-01-27T20:47:35.705Z'
 title: Marissa and Grant in Haiti
 author: []
