@@ -6,27 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-04T18:07:39.516Z'
-dateModified: '2016-01-04T17:45:18.434Z'
-title: Contact Grant Nieddu
+datePublished: '2016-01-27T20:35:35.863Z'
+dateModified: '2016-01-27T20:35:30.721Z'
+title: Grant Nieddu - Trainer - Author - The Spark - Igniting Emerging Entrepreneurs
 author: []
+sourcePath: _posts/2016-01-04-contact-grant-nieddu.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-contact-grant-nieddu.md
-published: true
 url: contact-grant-nieddu/index.html
 _type: Article
 
 ---
-# 
-
-# 
-
-# Contact Grant Nieddu
+Uploading Item...
+![Entrepreneur Trainer Lakeland - Grant R. Nieddu](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43ad74f8-9af6-40db-87c4-787d41bcda9d.jpg)
 
 Because of Grant's diverse entrepreneurial, non-profit and inspirational background, he has spoken and is well-versed on topics as wide-ranging as temperament-based management and sales, organizational and customer service excellence, motivation and self-image, small-business strategy, and vision facilitation.
 
@@ -122,6 +119,11 @@ Have you hit the wall of creative inspiration? Would you like to burn with passi
 ****
 
 **Suggested audience:**
-
-Individuals who want to re-connect with their core passion.
 ![Grant Nieddu - Trainer - Author - The Spark - Igniting Emerging Entrepreneurs](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a6cc7d-60f9-4e7f-9602-78062c4b6be7.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c97696376f0a52c49094806596475f4/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F06f67c984b95e39733931455fd961b0d18464bdb.jpg&width=600)
+
+# Grant Nieddu - Trainer - Author - The Spark - Igniting Emerging Entrepreneurs
+
+Grant Nieddu
+
+Grant Nieddu - Trainer - Author - The Spark - Igniting Emerging Entrepreneurs
