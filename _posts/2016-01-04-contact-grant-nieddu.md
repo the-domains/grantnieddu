@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T20:35:35.892Z'
-dateModified: '2016-01-27T20:35:30.721Z'
+datePublished: '2016-02-06T19:21:47.941Z'
+dateModified: '2016-02-06T19:21:44.601Z'
 title: Grant Nieddu - Trainer - Author - The Spark - Igniting Emerging Entrepreneurs
 author: []
 sourcePath: _posts/2016-01-04-contact-grant-nieddu.md
@@ -22,12 +22,11 @@ url: contact-grant-nieddu/index.html
 _type: Article
 
 ---
-Uploading Item...
-![Entrepreneur Trainer Lakeland - Grant R. Nieddu](https://the-grid-user-content.s3-us-west-2.amazonaws.com/43ad74f8-9af6-40db-87c4-787d41bcda9d.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/690b23b034a172caf10b010706322f00/passthrough.jpg?height=547&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F168f3fa6f907d7cf819e26a8d719c6da9adbce12.jpg&width=410)
+
+Entrepreneur Trainer Lakeland - Grant R. Nieddu
 
 Because of Grant's diverse entrepreneurial, non-profit and inspirational background, he has spoken and is well-versed on topics as wide-ranging as temperament-based management and sales, organizational and customer service excellence, motivation and self-image, small-business strategy, and vision facilitation.
-
-From intimate gatherings to team meetings attended by dozens, Grant has spoken on a variety of subjects, and can tailor a message specific to your organization's needs.
 
 ## TOPICS
 
@@ -119,7 +118,6 @@ Have you hit the wall of creative inspiration? Would you like to burn with passi
 ****
 
 **Suggested audience:**
-![Grant Nieddu - Trainer - Author - The Spark - Igniting Emerging Entrepreneurs](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56a6cc7d-60f9-4e7f-9602-78062c4b6be7.jpg)
 ![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0c97696376f0a52c49094806596475f4/passthrough.jpg?height=600&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F06f67c984b95e39733931455fd961b0d18464bdb.jpg&width=600)
 
 # Grant Nieddu - Trainer - Author - The Spark - Igniting Emerging Entrepreneurs
